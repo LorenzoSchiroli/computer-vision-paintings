@@ -1,5 +1,7 @@
 # Computer Vision Project
 
+Click [HERE](docs/Report_Arnautovic_Kumar_Schiroli.pdf) to see the report.
+
 This project takes in input a video and its output is another video with painting and people detected, paintings retrieved, rectified and people localized.
 
 
