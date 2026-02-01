@@ -2,6 +2,14 @@
 
 Click [HERE](docs/Report_Arnautovic_Kumar_Schiroli.pdf) to see the report.
 
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=bemUXTbVydY">
+    <img src="https://img.youtube.com/vi/bemUXTbVydY/0.jpg" width="700">
+  </a>
+</p>
+
+*Click the image above to watch the full project walkthrough.*
+
 This project takes in input a video and its output is another video with painting and people detected, paintings retrieved, rectified and people localized.
 
 
