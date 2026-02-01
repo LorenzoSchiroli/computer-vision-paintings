@@ -1,0 +1,4 @@
+detecto
+numpy
+opencv-python
+matplotlib
