@@ -1,4 +1,4 @@
-# Computer Vision Project
+# Computer Vision and Cognitive Systems project for the Galleria Estense Museum
 
 [![Documentation preview](docs/Report_Arnautovic_Kumar_Schiroli.png)](docs/Report_Arnautovic_Kumar_Schiroli.pdf)
 
