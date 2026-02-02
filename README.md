@@ -1,6 +1,6 @@
 # Computer Vision Project
 
-Click [HERE](docs/Report_Arnautovic_Kumar_Schiroli.pdf) to see the report.
+[![Documentation preview](docs/Report_Arnautovic_Kumar_Schiroli.png)](docs/Report_Arnautovic_Kumar_Schiroli.pdf)
 
 https://github.com/user-attachments/assets/ebd1379a-04a1-4111-a83f-507969382a60
 
